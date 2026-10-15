@@ -15,7 +15,7 @@ I build automations and AI assistants that take repetitive work off people's han
 | [whatsapp-expense-bot-n8n](https://github.com/tefscript/whatsapp-expense-bot-n8n) | WhatsApp assistant that handles corporate travel expense reports end to end, with specialized AI agents and receipt OCR | n8n, Azure OpenAI, Azure Computer Vision, PostgreSQL, Redis, SAP Concur API |
 | [comparador-inteligente-de-produtos-n8n](https://github.com/tefscript/comparador-inteligente-de-produtos-n8n) | Reads quote requests from email (PDF, Excel, images) and matches each item to the official catalog using RAG | n8n, Azure OpenAI, Qdrant, OCR, Microsoft Graph |
 | [mystudioflow](https://github.com/tefscript/mystudioflow) | Management system for beauty studios with automatic WhatsApp confirmations (my final course project) | React, TypeScript, Node.js, Prisma, PostgreSQL, Evolution API |
-| [letmeaskAI](https://github.com/tefscript/letmeaskAI) | Room-based Q&A platform with AI-powered answers | Fastify, TypeScript, Drizzle, React |
+| [letmeaskAI](https://github.com/tefscript/letmeaskAI) | Room-based Q&A platform; AI answers with embeddings and pgvector in progress | Fastify, TypeScript, Drizzle, React |
 | [healthsync-tdd](https://github.com/tefscript/healthsync-tdd) | Health monitoring API built test-first, with unit, e2e and mutation testing | Node.js, Express, Vitest, Playwright, Stryker |
 | [api-docs](https://github.com/tefscript/api-docs) | Small API that extracts text and tables from PPTX and DOCX files | Python, FastAPI |
 
