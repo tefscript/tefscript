@@ -1,4 +1,30 @@
-<h2 align="center">✨Hi, welcome to my GitHub!✨</h2>
+<h2 align="center">Hi, I'm Stéfani 👋</h2>
+
+<p align="center">
+  AI & Automation developer intern · Software Engineering student @ Católica SC · Joinville, Brazil
+</p>
+
+###
+
+I build automations and AI assistants that take repetitive work off people's hands: WhatsApp bots, multi-agent flows in n8n, RAG over product catalogs, and the APIs and dashboards around them. Day to day I work with n8n, Python, Azure OpenAI and Power BI, and I also build full-stack web apps with React, Node.js and PostgreSQL.
+
+### Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [whatsapp-expense-bot-n8n](https://github.com/tefscript/whatsapp-expense-bot-n8n) | WhatsApp assistant that handles corporate travel expense reports end to end, with specialized AI agents and receipt OCR | n8n, Azure OpenAI, Azure Computer Vision, PostgreSQL, Redis, SAP Concur API |
+| [comparador-inteligente-de-produtos-n8n](https://github.com/tefscript/comparador-inteligente-de-produtos-n8n) | Reads quote requests from email (PDF, Excel, images) and matches each item to the official catalog using RAG | n8n, Azure OpenAI, Qdrant, OCR, Microsoft Graph |
+| [mystudioflow](https://github.com/tefscript/mystudioflow) | Management system for beauty studios with automatic WhatsApp confirmations (my final course project) | React, TypeScript, Node.js, Prisma, PostgreSQL, Evolution API |
+| [letmeaskAI](https://github.com/tefscript/letmeaskAI) | Room-based Q&A platform with AI-powered answers | Fastify, TypeScript, Drizzle, React |
+| [healthsync-tdd](https://github.com/tefscript/healthsync-tdd) | Health monitoring API built test-first, with unit, e2e and mutation testing | Node.js, Express, Vitest, Playwright, Stryker |
+| [api-docs](https://github.com/tefscript/api-docs) | Small API that extracts text and tables from PPTX and DOCX files | Python, FastAPI |
+
+### Tech stack
+
+**Automation & AI:** n8n, Azure OpenAI, LangChain, LangGraph, RAG (Qdrant, pgvector), Evolution API (WhatsApp)
+**Data:** Power BI, Databricks, PySpark, PostgreSQL, Redis
+**Web:** TypeScript, JavaScript, React, Node.js, Express, FastAPI, Tailwind
+**Other:** Python, Docker, Git
 
 ###
 
@@ -7,54 +33,20 @@
   <img src="https://github-readme-stats-five-smoky-50.vercel.app/api/top-langs?username=tefscript&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/461e7562fb0bd9e70ad8e72e2612dba6ea8a5e2459281ef3bcc4275b135d6068/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61612f65342f63332f61616534633339336437323437306264626335393337373934626133663335392e676966"  />
-
-###
+### Contact
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="30" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/tefscript/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/stefani-sant-ana/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:stefani.paulasantana@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <a href="mailto:stefani.paulasantana@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/tefscript/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/tefscript/tefscript/output/snake.svg" alt="Snake animation" />
-
-###
