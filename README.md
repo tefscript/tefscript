@@ -21,10 +21,10 @@ I build automations and AI assistants that take repetitive work off people's han
 
 ### Tech stack
 
-**Automation & AI:** n8n, Azure OpenAI, LangChain, LangGraph, RAG (Qdrant, pgvector), Evolution API (WhatsApp)
-**Data:** Power BI, Databricks, PySpark, PostgreSQL, Redis
-**Web:** TypeScript, JavaScript, React, Node.js, Express, FastAPI, Tailwind
-**Other:** Python, Docker, Git
+- **Automation & AI:** n8n, Azure OpenAI, LangChain, LangGraph, RAG (Qdrant, pgvector), Evolution API (WhatsApp)
+- **Data:** Power BI, Databricks, PySpark, PostgreSQL, Redis
+- **Web:** TypeScript, JavaScript, React, Node.js, Express, FastAPI, Tailwind
+- **Other:** Python, Docker, Git
 
 ###
 
