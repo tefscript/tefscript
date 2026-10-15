@@ -26,13 +26,6 @@ I build automations and AI assistants that take repetitive work off people's han
 - **Web:** TypeScript, JavaScript, React, Node.js, Express, FastAPI, Tailwind
 - **Other:** Python, Docker, Git
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats-five-smoky-50.vercel.app/api?username=tefscript&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-five-smoky-50.vercel.app/api/top-langs?username=tefscript&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ### Contact
 
 <div align="left">
